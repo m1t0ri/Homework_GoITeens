@@ -1,0 +1,14 @@
+D:\Пиложения\Programing\Codes\all codes\Switch\bin\Debug\net9.0\Switch.exe
+D:\Пиложения\Programing\Codes\all codes\Switch\bin\Debug\net9.0\Switch.deps.json
+D:\Пиложения\Programing\Codes\all codes\Switch\bin\Debug\net9.0\Switch.runtimeconfig.json
+D:\Пиложения\Programing\Codes\all codes\Switch\bin\Debug\net9.0\Switch.dll
+D:\Пиложения\Programing\Codes\all codes\Switch\bin\Debug\net9.0\Switch.pdb
+D:\Пиложения\Programing\Codes\all codes\Switch\obj\Debug\net9.0\Switch.GeneratedMSBuildEditorConfig.editorconfig
+D:\Пиложения\Programing\Codes\all codes\Switch\obj\Debug\net9.0\Switch.AssemblyInfoInputs.cache
+D:\Пиложения\Programing\Codes\all codes\Switch\obj\Debug\net9.0\Switch.AssemblyInfo.cs
+D:\Пиложения\Programing\Codes\all codes\Switch\obj\Debug\net9.0\Switch.csproj.CoreCompileInputs.cache
+D:\Пиложения\Programing\Codes\all codes\Switch\obj\Debug\net9.0\Switch.dll
+D:\Пиложения\Programing\Codes\all codes\Switch\obj\Debug\net9.0\refint\Switch.dll
+D:\Пиложения\Programing\Codes\all codes\Switch\obj\Debug\net9.0\Switch.pdb
+D:\Пиложения\Programing\Codes\all codes\Switch\obj\Debug\net9.0\Switch.genruntimeconfig.cache
+D:\Пиложения\Programing\Codes\all codes\Switch\obj\Debug\net9.0\ref\Switch.dll

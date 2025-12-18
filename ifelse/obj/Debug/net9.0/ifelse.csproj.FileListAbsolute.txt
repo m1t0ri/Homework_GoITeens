@@ -1,0 +1,14 @@
+D:\Пиложения\Programing\Codes\all codes\ifelse\bin\Debug\net9.0\ifelse.exe
+D:\Пиложения\Programing\Codes\all codes\ifelse\bin\Debug\net9.0\ifelse.deps.json
+D:\Пиложения\Programing\Codes\all codes\ifelse\bin\Debug\net9.0\ifelse.runtimeconfig.json
+D:\Пиложения\Programing\Codes\all codes\ifelse\bin\Debug\net9.0\ifelse.dll
+D:\Пиложения\Programing\Codes\all codes\ifelse\bin\Debug\net9.0\ifelse.pdb
+D:\Пиложения\Programing\Codes\all codes\ifelse\obj\Debug\net9.0\ifelse.GeneratedMSBuildEditorConfig.editorconfig
+D:\Пиложения\Programing\Codes\all codes\ifelse\obj\Debug\net9.0\ifelse.AssemblyInfoInputs.cache
+D:\Пиложения\Programing\Codes\all codes\ifelse\obj\Debug\net9.0\ifelse.AssemblyInfo.cs
+D:\Пиложения\Programing\Codes\all codes\ifelse\obj\Debug\net9.0\ifelse.csproj.CoreCompileInputs.cache
+D:\Пиложения\Programing\Codes\all codes\ifelse\obj\Debug\net9.0\ifelse.dll
+D:\Пиложения\Programing\Codes\all codes\ifelse\obj\Debug\net9.0\refint\ifelse.dll
+D:\Пиложения\Programing\Codes\all codes\ifelse\obj\Debug\net9.0\ifelse.pdb
+D:\Пиложения\Programing\Codes\all codes\ifelse\obj\Debug\net9.0\ifelse.genruntimeconfig.cache
+D:\Пиложения\Programing\Codes\all codes\ifelse\obj\Debug\net9.0\ref\ifelse.dll

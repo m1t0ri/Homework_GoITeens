@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "aufgabe for while do/1.0.0": {
+        "runtime": {
+          "aufgabe for while do.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "aufgabe for while do/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

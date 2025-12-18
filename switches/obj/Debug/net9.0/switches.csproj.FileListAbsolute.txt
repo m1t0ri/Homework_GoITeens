@@ -1,0 +1,14 @@
+D:\Пиложения\Programing\Codes\all codes\switches\bin\Debug\net9.0\switches.exe
+D:\Пиложения\Programing\Codes\all codes\switches\bin\Debug\net9.0\switches.deps.json
+D:\Пиложения\Programing\Codes\all codes\switches\bin\Debug\net9.0\switches.runtimeconfig.json
+D:\Пиложения\Programing\Codes\all codes\switches\bin\Debug\net9.0\switches.dll
+D:\Пиложения\Programing\Codes\all codes\switches\bin\Debug\net9.0\switches.pdb
+D:\Пиложения\Programing\Codes\all codes\switches\obj\Debug\net9.0\switches.GeneratedMSBuildEditorConfig.editorconfig
+D:\Пиложения\Programing\Codes\all codes\switches\obj\Debug\net9.0\switches.AssemblyInfoInputs.cache
+D:\Пиложения\Programing\Codes\all codes\switches\obj\Debug\net9.0\switches.AssemblyInfo.cs
+D:\Пиложения\Programing\Codes\all codes\switches\obj\Debug\net9.0\switches.csproj.CoreCompileInputs.cache
+D:\Пиложения\Programing\Codes\all codes\switches\obj\Debug\net9.0\switches.dll
+D:\Пиложения\Programing\Codes\all codes\switches\obj\Debug\net9.0\refint\switches.dll
+D:\Пиложения\Programing\Codes\all codes\switches\obj\Debug\net9.0\switches.pdb
+D:\Пиложения\Programing\Codes\all codes\switches\obj\Debug\net9.0\switches.genruntimeconfig.cache
+D:\Пиложения\Programing\Codes\all codes\switches\obj\Debug\net9.0\ref\switches.dll

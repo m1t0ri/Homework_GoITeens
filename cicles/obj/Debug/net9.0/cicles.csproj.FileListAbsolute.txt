@@ -1,0 +1,14 @@
+D:\Пиложения\Programing\Codes\all codes\cicles\bin\Debug\net9.0\cicles.exe
+D:\Пиложения\Programing\Codes\all codes\cicles\bin\Debug\net9.0\cicles.deps.json
+D:\Пиложения\Programing\Codes\all codes\cicles\bin\Debug\net9.0\cicles.runtimeconfig.json
+D:\Пиложения\Programing\Codes\all codes\cicles\bin\Debug\net9.0\cicles.dll
+D:\Пиложения\Programing\Codes\all codes\cicles\bin\Debug\net9.0\cicles.pdb
+D:\Пиложения\Programing\Codes\all codes\cicles\obj\Debug\net9.0\cicles.GeneratedMSBuildEditorConfig.editorconfig
+D:\Пиложения\Programing\Codes\all codes\cicles\obj\Debug\net9.0\cicles.AssemblyInfoInputs.cache
+D:\Пиложения\Programing\Codes\all codes\cicles\obj\Debug\net9.0\cicles.AssemblyInfo.cs
+D:\Пиложения\Programing\Codes\all codes\cicles\obj\Debug\net9.0\cicles.csproj.CoreCompileInputs.cache
+D:\Пиложения\Programing\Codes\all codes\cicles\obj\Debug\net9.0\cicles.dll
+D:\Пиложения\Programing\Codes\all codes\cicles\obj\Debug\net9.0\refint\cicles.dll
+D:\Пиложения\Programing\Codes\all codes\cicles\obj\Debug\net9.0\cicles.pdb
+D:\Пиложения\Programing\Codes\all codes\cicles\obj\Debug\net9.0\cicles.genruntimeconfig.cache
+D:\Пиложения\Programing\Codes\all codes\cicles\obj\Debug\net9.0\ref\cicles.dll

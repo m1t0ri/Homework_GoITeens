@@ -1,0 +1,14 @@
+D:\Пиложения\Programing\Codes\all codes\aufgabe for while do\bin\Debug\net9.0\aufgabe for while do.exe
+D:\Пиложения\Programing\Codes\all codes\aufgabe for while do\bin\Debug\net9.0\aufgabe for while do.deps.json
+D:\Пиложения\Programing\Codes\all codes\aufgabe for while do\bin\Debug\net9.0\aufgabe for while do.runtimeconfig.json
+D:\Пиложения\Programing\Codes\all codes\aufgabe for while do\bin\Debug\net9.0\aufgabe for while do.dll
+D:\Пиложения\Programing\Codes\all codes\aufgabe for while do\bin\Debug\net9.0\aufgabe for while do.pdb
+D:\Пиложения\Programing\Codes\all codes\aufgabe for while do\obj\Debug\net9.0\aufgabe for while do.GeneratedMSBuildEditorConfig.editorconfig
+D:\Пиложения\Programing\Codes\all codes\aufgabe for while do\obj\Debug\net9.0\aufgabe for while do.AssemblyInfoInputs.cache
+D:\Пиложения\Programing\Codes\all codes\aufgabe for while do\obj\Debug\net9.0\aufgabe for while do.AssemblyInfo.cs
+D:\Пиложения\Programing\Codes\all codes\aufgabe for while do\obj\Debug\net9.0\aufgabe for while do.csproj.CoreCompileInputs.cache
+D:\Пиложения\Programing\Codes\all codes\aufgabe for while do\obj\Debug\net9.0\aufgabe for while do.dll
+D:\Пиложения\Programing\Codes\all codes\aufgabe for while do\obj\Debug\net9.0\refint\aufgabe for while do.dll
+D:\Пиложения\Programing\Codes\all codes\aufgabe for while do\obj\Debug\net9.0\aufgabe for while do.pdb
+D:\Пиложения\Programing\Codes\all codes\aufgabe for while do\obj\Debug\net9.0\aufgabe for while do.genruntimeconfig.cache
+D:\Пиложения\Programing\Codes\all codes\aufgabe for while do\obj\Debug\net9.0\ref\aufgabe for while do.dll

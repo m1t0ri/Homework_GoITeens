@@ -1,0 +1,14 @@
+D:\Пиложения\Programing\Codes\all codes\ColorfulLand\bin\Debug\net9.0\ColorfulLand.exe
+D:\Пиложения\Programing\Codes\all codes\ColorfulLand\bin\Debug\net9.0\ColorfulLand.deps.json
+D:\Пиложения\Programing\Codes\all codes\ColorfulLand\bin\Debug\net9.0\ColorfulLand.runtimeconfig.json
+D:\Пиложения\Programing\Codes\all codes\ColorfulLand\bin\Debug\net9.0\ColorfulLand.dll
+D:\Пиложения\Programing\Codes\all codes\ColorfulLand\bin\Debug\net9.0\ColorfulLand.pdb
+D:\Пиложения\Programing\Codes\all codes\ColorfulLand\obj\Debug\net9.0\ColorfulLand.GeneratedMSBuildEditorConfig.editorconfig
+D:\Пиложения\Programing\Codes\all codes\ColorfulLand\obj\Debug\net9.0\ColorfulLand.AssemblyInfoInputs.cache
+D:\Пиложения\Programing\Codes\all codes\ColorfulLand\obj\Debug\net9.0\ColorfulLand.AssemblyInfo.cs
+D:\Пиложения\Programing\Codes\all codes\ColorfulLand\obj\Debug\net9.0\ColorfulLand.csproj.CoreCompileInputs.cache
+D:\Пиложения\Programing\Codes\all codes\ColorfulLand\obj\Debug\net9.0\ColorfulLand.dll
+D:\Пиложения\Programing\Codes\all codes\ColorfulLand\obj\Debug\net9.0\refint\ColorfulLand.dll
+D:\Пиложения\Programing\Codes\all codes\ColorfulLand\obj\Debug\net9.0\ColorfulLand.pdb
+D:\Пиложения\Programing\Codes\all codes\ColorfulLand\obj\Debug\net9.0\ColorfulLand.genruntimeconfig.cache
+D:\Пиложения\Programing\Codes\all codes\ColorfulLand\obj\Debug\net9.0\ref\ColorfulLand.dll

@@ -1,0 +1,14 @@
+D:\Пиложения\Programing\Codes\all codes\adasd\bin\Debug\net9.0\adasd.exe
+D:\Пиложения\Programing\Codes\all codes\adasd\bin\Debug\net9.0\adasd.deps.json
+D:\Пиложения\Programing\Codes\all codes\adasd\bin\Debug\net9.0\adasd.runtimeconfig.json
+D:\Пиложения\Programing\Codes\all codes\adasd\bin\Debug\net9.0\adasd.dll
+D:\Пиложения\Programing\Codes\all codes\adasd\bin\Debug\net9.0\adasd.pdb
+D:\Пиложения\Programing\Codes\all codes\adasd\obj\Debug\net9.0\adasd.GeneratedMSBuildEditorConfig.editorconfig
+D:\Пиложения\Programing\Codes\all codes\adasd\obj\Debug\net9.0\adasd.AssemblyInfoInputs.cache
+D:\Пиложения\Programing\Codes\all codes\adasd\obj\Debug\net9.0\adasd.AssemblyInfo.cs
+D:\Пиложения\Programing\Codes\all codes\adasd\obj\Debug\net9.0\adasd.csproj.CoreCompileInputs.cache
+D:\Пиложения\Programing\Codes\all codes\adasd\obj\Debug\net9.0\adasd.dll
+D:\Пиложения\Programing\Codes\all codes\adasd\obj\Debug\net9.0\refint\adasd.dll
+D:\Пиложения\Programing\Codes\all codes\adasd\obj\Debug\net9.0\adasd.pdb
+D:\Пиложения\Programing\Codes\all codes\adasd\obj\Debug\net9.0\adasd.genruntimeconfig.cache
+D:\Пиложения\Programing\Codes\all codes\adasd\obj\Debug\net9.0\ref\adasd.dll

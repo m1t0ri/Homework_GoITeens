@@ -1,0 +1,14 @@
+D:\Пиложения\Programing\Codes\all codes\minigame\bin\Debug\net9.0\minigame.exe
+D:\Пиложения\Programing\Codes\all codes\minigame\bin\Debug\net9.0\minigame.deps.json
+D:\Пиложения\Programing\Codes\all codes\minigame\bin\Debug\net9.0\minigame.runtimeconfig.json
+D:\Пиложения\Programing\Codes\all codes\minigame\bin\Debug\net9.0\minigame.dll
+D:\Пиложения\Programing\Codes\all codes\minigame\bin\Debug\net9.0\minigame.pdb
+D:\Пиложения\Programing\Codes\all codes\minigame\obj\Debug\net9.0\minigame.GeneratedMSBuildEditorConfig.editorconfig
+D:\Пиложения\Programing\Codes\all codes\minigame\obj\Debug\net9.0\minigame.AssemblyInfoInputs.cache
+D:\Пиложения\Programing\Codes\all codes\minigame\obj\Debug\net9.0\minigame.AssemblyInfo.cs
+D:\Пиложения\Programing\Codes\all codes\minigame\obj\Debug\net9.0\minigame.csproj.CoreCompileInputs.cache
+D:\Пиложения\Programing\Codes\all codes\minigame\obj\Debug\net9.0\minigame.dll
+D:\Пиложения\Programing\Codes\all codes\minigame\obj\Debug\net9.0\refint\minigame.dll
+D:\Пиложения\Programing\Codes\all codes\minigame\obj\Debug\net9.0\minigame.pdb
+D:\Пиложения\Programing\Codes\all codes\minigame\obj\Debug\net9.0\minigame.genruntimeconfig.cache
+D:\Пиложения\Programing\Codes\all codes\minigame\obj\Debug\net9.0\ref\minigame.dll
