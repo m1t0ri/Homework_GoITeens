@@ -1,0 +1,14 @@
+D:\Пиложения\Programing\Codes\all codes\string_8\bin\Debug\net9.0\string_8.exe
+D:\Пиложения\Programing\Codes\all codes\string_8\bin\Debug\net9.0\string_8.deps.json
+D:\Пиложения\Programing\Codes\all codes\string_8\bin\Debug\net9.0\string_8.runtimeconfig.json
+D:\Пиложения\Programing\Codes\all codes\string_8\bin\Debug\net9.0\string_8.dll
+D:\Пиложения\Programing\Codes\all codes\string_8\bin\Debug\net9.0\string_8.pdb
+D:\Пиложения\Programing\Codes\all codes\string_8\obj\Debug\net9.0\string_8.GeneratedMSBuildEditorConfig.editorconfig
+D:\Пиложения\Programing\Codes\all codes\string_8\obj\Debug\net9.0\string_8.AssemblyInfoInputs.cache
+D:\Пиложения\Programing\Codes\all codes\string_8\obj\Debug\net9.0\string_8.AssemblyInfo.cs
+D:\Пиложения\Programing\Codes\all codes\string_8\obj\Debug\net9.0\string_8.csproj.CoreCompileInputs.cache
+D:\Пиложения\Programing\Codes\all codes\string_8\obj\Debug\net9.0\string_8.dll
+D:\Пиложения\Programing\Codes\all codes\string_8\obj\Debug\net9.0\refint\string_8.dll
+D:\Пиложения\Programing\Codes\all codes\string_8\obj\Debug\net9.0\string_8.pdb
+D:\Пиложения\Programing\Codes\all codes\string_8\obj\Debug\net9.0\string_8.genruntimeconfig.cache
+D:\Пиложения\Programing\Codes\all codes\string_8\obj\Debug\net9.0\ref\string_8.dll
