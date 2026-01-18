@@ -1,0 +1,15 @@
+D:\Пиложения\Programing\Codes\Game\Check mana\bin\Debug\net9.0\Check mana.exe
+D:\Пиложения\Programing\Codes\Game\Check mana\bin\Debug\net9.0\Check mana.deps.json
+D:\Пиложения\Programing\Codes\Game\Check mana\bin\Debug\net9.0\Check mana.runtimeconfig.json
+D:\Пиложения\Programing\Codes\Game\Check mana\bin\Debug\net9.0\Check mana.dll
+D:\Пиложения\Programing\Codes\Game\Check mana\bin\Debug\net9.0\Check mana.pdb
+D:\Пиложения\Programing\Codes\Game\Check mana\obj\Debug\net9.0\Check mana.GeneratedMSBuildEditorConfig.editorconfig
+D:\Пиложения\Programing\Codes\Game\Check mana\obj\Debug\net9.0\Check mana.AssemblyInfoInputs.cache
+D:\Пиложения\Programing\Codes\Game\Check mana\obj\Debug\net9.0\Check mana.AssemblyInfo.cs
+D:\Пиложения\Programing\Codes\Game\Check mana\obj\Debug\net9.0\Check mana.csproj.CoreCompileInputs.cache
+D:\Пиложения\Programing\Codes\Game\Check mana\obj\Debug\net9.0\Check mana.sourcelink.json
+D:\Пиложения\Programing\Codes\Game\Check mana\obj\Debug\net9.0\Check mana.dll
+D:\Пиложения\Programing\Codes\Game\Check mana\obj\Debug\net9.0\refint\Check mana.dll
+D:\Пиложения\Programing\Codes\Game\Check mana\obj\Debug\net9.0\Check mana.pdb
+D:\Пиложения\Programing\Codes\Game\Check mana\obj\Debug\net9.0\Check mana.genruntimeconfig.cache
+D:\Пиложения\Programing\Codes\Game\Check mana\obj\Debug\net9.0\ref\Check mana.dll
