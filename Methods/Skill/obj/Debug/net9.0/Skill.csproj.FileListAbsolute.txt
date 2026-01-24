@@ -1,0 +1,14 @@
+D:\Пиложения\Programing\Codes\all codes\Skill\bin\Debug\net9.0\Skill.exe
+D:\Пиложения\Programing\Codes\all codes\Skill\bin\Debug\net9.0\Skill.deps.json
+D:\Пиложения\Programing\Codes\all codes\Skill\bin\Debug\net9.0\Skill.runtimeconfig.json
+D:\Пиложения\Programing\Codes\all codes\Skill\bin\Debug\net9.0\Skill.dll
+D:\Пиложения\Programing\Codes\all codes\Skill\bin\Debug\net9.0\Skill.pdb
+D:\Пиложения\Programing\Codes\all codes\Skill\obj\Debug\net9.0\Skill.GeneratedMSBuildEditorConfig.editorconfig
+D:\Пиложения\Programing\Codes\all codes\Skill\obj\Debug\net9.0\Skill.AssemblyInfoInputs.cache
+D:\Пиложения\Programing\Codes\all codes\Skill\obj\Debug\net9.0\Skill.AssemblyInfo.cs
+D:\Пиложения\Programing\Codes\all codes\Skill\obj\Debug\net9.0\Skill.csproj.CoreCompileInputs.cache
+D:\Пиложения\Programing\Codes\all codes\Skill\obj\Debug\net9.0\Skill.dll
+D:\Пиложения\Programing\Codes\all codes\Skill\obj\Debug\net9.0\refint\Skill.dll
+D:\Пиложения\Programing\Codes\all codes\Skill\obj\Debug\net9.0\Skill.pdb
+D:\Пиложения\Programing\Codes\all codes\Skill\obj\Debug\net9.0\Skill.genruntimeconfig.cache
+D:\Пиложения\Programing\Codes\all codes\Skill\obj\Debug\net9.0\ref\Skill.dll
