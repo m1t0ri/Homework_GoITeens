@@ -1,38 +1,51 @@
-﻿using System;  
-  
-namespace MyNamespace;  
-  
-class Program  
+﻿using System.Globalization;
+using System.Text;
+
+namespace _HomeWorksCheck
 {
-    static void Main(string[] args)
+    internal class Program
     {
-        string namePlayer;
-        namePlayer = Console.ReadLine();
-        Function(namePlayer);
+        static void Main(string[] args)
+        {
+            int rnd =  new Random().Next(1, 100);
+            string namePlayer;
+            namePlayer = Console.ReadLine();
+            int damage = rnd;
+            int health = 100;
+            
+            //int rnd = new Random().Next(0, 100);
+            
+            PrintName(namePlayer);
 
-        Console.Clear();
-        Console.WriteLine("Be careful! There is the first enemy!");
-        
-        Function();
+            Console.Clear();
+            Console.WriteLine("Be careful! There is the first enemy!");
 
-        Console.ReadKey();
-    }
-    static string Function(string a)
-    {
-        
-        Console.WriteLine($"Welcome in game, {a}!");
-        return a;
-    }
+            CalcDamage(ref health, damage);
+            //CalcDamage(damage, health);
+            
+            Console.WriteLine($" Your hp now is {health}!"); // 70
+            
+            CalcDamage(health, damage);
+            
+            Console.WriteLine($" Your hp now is {health}!"); // 70
 
-    static int Function()
-    {
-        int rnd = new Random().Next(0, 100);
-        int player = 100;
-        int damage = player - rnd;
+            Console.ReadKey();
+        }
+
+        static void PrintName(string a)
+        {
+            Console.WriteLine($"Welcome in game, {a}!");
+        }
+
+        static void CalcDamage(ref int health, int damage)
+        {
+            health -= damage;
+        }
         
-        Console.WriteLine($" Your hp now is {damage}!");
-        return damage;
+        static void CalcDamage(int health, int damage)
+        {
+            health -= damage;
+            Console.WriteLine($" Your hp now is {health}!"); // 40
+        }
     }
-    
-    
 }

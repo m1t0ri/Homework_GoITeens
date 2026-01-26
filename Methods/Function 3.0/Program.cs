@@ -1,33 +1,41 @@
-﻿using System;  
-  
-namespace MyNamespace;  
-  
-class Program  
+﻿using System.Globalization;
+using System.Text;
+
+namespace _HomeWorksCheck
 {
-    static void Main(string[] args)
+    internal class Program
     {
-        int enemy1 = 890;
-        int enemy2 = 739;
-
-        int best = whoIsStronger(enemy1, enemy2);
-        Console.WriteLine(best);
-        Console.ReadKey();
-
-    }
-
-    static int whoIsStronger(int x, int y)
-    {
-        bool s = x > y;
-        if (s == true)
+        static void Main(string[] args)
         {
-            Console.WriteLine($"{x} is stronger");
-            return x;
+            Dictionary<string, int> dict = new Dictionary<string, int>()
+            {
+                { "Enemy1", 890 },
+                { "Enemy2", 900 }
+            };
+            int enemy1 = 890;
+            int enemy2 = 900;
+
+            int best = WhoIsStronger(enemy1, enemy2);
+            int best1 = WhoIsStronger(dict["Enemy1"], dict["Enemy2"] );
+            
+            PrintStrogestEnemy(best);
+            PrintStrogestEnemy(best1);
+            
+            
+            //Console.WriteLine(best);
+            Console.ReadKey();
+
         }
-        if(s == false)
+
+        static int WhoIsStronger(int x, int y)
         {
-            Console.WriteLine($"{y} is stronger");
-            return y;
+            if(x == y) return 0;
+            return x > y ? x : y;
         }
-        return x;
+
+        private static void PrintStrogestEnemy(int value)
+        {
+            Console.WriteLine(value == 0 ? "equals" : $"{value} is stronger");
+        }
     }
 }
