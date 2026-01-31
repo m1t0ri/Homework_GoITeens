@@ -1,0 +1,15 @@
+D:\Пиложения\Programing\Codes\Game\Povtor\bin\Debug\net9.0\Povtor.exe
+D:\Пиложения\Programing\Codes\Game\Povtor\bin\Debug\net9.0\Povtor.deps.json
+D:\Пиложения\Programing\Codes\Game\Povtor\bin\Debug\net9.0\Povtor.runtimeconfig.json
+D:\Пиложения\Programing\Codes\Game\Povtor\bin\Debug\net9.0\Povtor.dll
+D:\Пиложения\Programing\Codes\Game\Povtor\bin\Debug\net9.0\Povtor.pdb
+D:\Пиложения\Programing\Codes\Game\Povtor\obj\Debug\net9.0\Povtor.GeneratedMSBuildEditorConfig.editorconfig
+D:\Пиложения\Programing\Codes\Game\Povtor\obj\Debug\net9.0\Povtor.AssemblyInfoInputs.cache
+D:\Пиложения\Programing\Codes\Game\Povtor\obj\Debug\net9.0\Povtor.AssemblyInfo.cs
+D:\Пиложения\Programing\Codes\Game\Povtor\obj\Debug\net9.0\Povtor.csproj.CoreCompileInputs.cache
+D:\Пиложения\Programing\Codes\Game\Povtor\obj\Debug\net9.0\Povtor.sourcelink.json
+D:\Пиложения\Programing\Codes\Game\Povtor\obj\Debug\net9.0\Povtor.dll
+D:\Пиложения\Programing\Codes\Game\Povtor\obj\Debug\net9.0\refint\Povtor.dll
+D:\Пиложения\Programing\Codes\Game\Povtor\obj\Debug\net9.0\Povtor.pdb
+D:\Пиложения\Programing\Codes\Game\Povtor\obj\Debug\net9.0\Povtor.genruntimeconfig.cache
+D:\Пиложения\Programing\Codes\Game\Povtor\obj\Debug\net9.0\ref\Povtor.dll
