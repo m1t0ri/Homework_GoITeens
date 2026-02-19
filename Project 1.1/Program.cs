@@ -1,8 +1,8 @@
 ﻿using System;  
   
-namespace MyNamespace;  
-  
-class Program  
+namespace MyNamespace;
+
+class Program
 {
     static void Main(string[] args)
     {
@@ -11,39 +11,40 @@ class Program
         {
             Console.WriteLine("Write your question, and magic amethyst will answer(or write 143 to exit):");
             question = Console.ReadLine();
-            
+
             if (question == "143")
             {
                 break;
             }
 
-            Answer();
-            
+            string answer = Answer();
+            Console.WriteLine("The answer is: " + answer);
+
             Console.ReadKey();
-            
+
             Console.Clear();
 
 
         } while (true);
-        
+
+
+
     }
-    static void Answer()
+
+    static string Answer()
     {
-        string answer = null;
-        int rnd = new Random().Next(1,4);
-        switch (rnd)
+        string[] answers = GetAnswers();
+        string answer = answers[new Random().Next(1, answers.Length)];
+        return answer;
+    }
+
+    static string[] GetAnswers()
+    {
+        return new[]
         {
-            case 1:
-                answer = "Yes";
-                break;
-            case 2: 
-                answer = "No";
-                break;
-            case 3:
-                answer = "Maybe";
-                break;
-                
-        }
-        Console.WriteLine(answer);
+            "Yes",
+            "No",
+            "Maybe"
+        };
     }
 }
