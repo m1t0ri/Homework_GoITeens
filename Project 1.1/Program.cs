@@ -18,11 +18,15 @@ class Program
             }
 
             string answer = Answer();
+            
+            Color(answer);
+            
             Console.WriteLine("The answer is: " + answer);
-
+            
             Console.ReadKey();
 
             Console.Clear();
+            Console.ForegroundColor = ConsoleColor.White;
 
 
         } while (true);
@@ -34,7 +38,7 @@ class Program
     static string Answer()
     {
         string[] answers = GetAnswers();
-        string answer = answers[new Random().Next(1, answers.Length)];
+        string answer = answers[new Random().Next(0, answers.Length)];
         return answer;
     }
 
@@ -46,5 +50,21 @@ class Program
             "No",
             "Maybe"
         };
+    }
+
+    static ConsoleColor Color(string answer)
+    {
+        switch (answer)
+        {
+            case "Yes":
+                return Console.ForegroundColor = ConsoleColor.Green;
+            case "No":
+                return Console.ForegroundColor = ConsoleColor.Red;
+            case "Maybe":
+                return Console.ForegroundColor = ConsoleColor.Yellow;
+            default:
+                return Console.ForegroundColor = ConsoleColor.White;
+        }
+            
     }
 }
