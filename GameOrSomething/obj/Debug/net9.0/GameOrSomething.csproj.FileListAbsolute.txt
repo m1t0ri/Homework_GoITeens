@@ -1,0 +1,14 @@
+D:\Пиложения\Programing\Codes\all codes\GameOrSomething\bin\Debug\net9.0\GameOrSomething.exe
+D:\Пиложения\Programing\Codes\all codes\GameOrSomething\bin\Debug\net9.0\GameOrSomething.deps.json
+D:\Пиложения\Programing\Codes\all codes\GameOrSomething\bin\Debug\net9.0\GameOrSomething.runtimeconfig.json
+D:\Пиложения\Programing\Codes\all codes\GameOrSomething\bin\Debug\net9.0\GameOrSomething.dll
+D:\Пиложения\Programing\Codes\all codes\GameOrSomething\bin\Debug\net9.0\GameOrSomething.pdb
+D:\Пиложения\Programing\Codes\all codes\GameOrSomething\obj\Debug\net9.0\GameOrSomething.GeneratedMSBuildEditorConfig.editorconfig
+D:\Пиложения\Programing\Codes\all codes\GameOrSomething\obj\Debug\net9.0\GameOrSomething.AssemblyInfoInputs.cache
+D:\Пиложения\Programing\Codes\all codes\GameOrSomething\obj\Debug\net9.0\GameOrSomething.AssemblyInfo.cs
+D:\Пиложения\Programing\Codes\all codes\GameOrSomething\obj\Debug\net9.0\GameOrSomething.csproj.CoreCompileInputs.cache
+D:\Пиложения\Programing\Codes\all codes\GameOrSomething\obj\Debug\net9.0\GameOrSomething.dll
+D:\Пиложения\Programing\Codes\all codes\GameOrSomething\obj\Debug\net9.0\refint\GameOrSomething.dll
+D:\Пиложения\Programing\Codes\all codes\GameOrSomething\obj\Debug\net9.0\GameOrSomething.pdb
+D:\Пиложения\Programing\Codes\all codes\GameOrSomething\obj\Debug\net9.0\GameOrSomething.genruntimeconfig.cache
+D:\Пиложения\Programing\Codes\all codes\GameOrSomething\obj\Debug\net9.0\ref\GameOrSomething.dll
