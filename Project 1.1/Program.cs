@@ -19,7 +19,7 @@ class Program
 
             string answer = Answer();
             
-            Color(answer);
+            Console.ForegroundColor = Color(answer);
             
             Console.WriteLine("The answer is: " + answer);
             
@@ -57,14 +57,14 @@ class Program
         switch (answer)
         {
             case "Yes":
-                return Console.ForegroundColor = ConsoleColor.Green;
+                return  ConsoleColor.Green;
             case "No":
-                return Console.ForegroundColor = ConsoleColor.Red;
+                return  ConsoleColor.Red;
             case "Maybe":
-                return Console.ForegroundColor = ConsoleColor.Yellow;
+                return  ConsoleColor.Yellow;
             default:
-                return Console.ForegroundColor = ConsoleColor.White;
+                return  ConsoleColor.White;
         }
-            
+        
     }
 }
