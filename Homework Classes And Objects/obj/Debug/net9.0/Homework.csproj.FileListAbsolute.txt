@@ -1,0 +1,14 @@
+D:\Пиложения\Programing\Codes\all codes\Homework\bin\Debug\net9.0\Homework.exe
+D:\Пиложения\Programing\Codes\all codes\Homework\bin\Debug\net9.0\Homework.deps.json
+D:\Пиложения\Programing\Codes\all codes\Homework\bin\Debug\net9.0\Homework.runtimeconfig.json
+D:\Пиложения\Programing\Codes\all codes\Homework\bin\Debug\net9.0\Homework.dll
+D:\Пиложения\Programing\Codes\all codes\Homework\bin\Debug\net9.0\Homework.pdb
+D:\Пиложения\Programing\Codes\all codes\Homework\obj\Debug\net9.0\Homework.GeneratedMSBuildEditorConfig.editorconfig
+D:\Пиложения\Programing\Codes\all codes\Homework\obj\Debug\net9.0\Homework.AssemblyInfoInputs.cache
+D:\Пиложения\Programing\Codes\all codes\Homework\obj\Debug\net9.0\Homework.AssemblyInfo.cs
+D:\Пиложения\Programing\Codes\all codes\Homework\obj\Debug\net9.0\Homework.csproj.CoreCompileInputs.cache
+D:\Пиложения\Programing\Codes\all codes\Homework\obj\Debug\net9.0\Homework.dll
+D:\Пиложения\Programing\Codes\all codes\Homework\obj\Debug\net9.0\refint\Homework.dll
+D:\Пиложения\Programing\Codes\all codes\Homework\obj\Debug\net9.0\Homework.pdb
+D:\Пиложения\Programing\Codes\all codes\Homework\obj\Debug\net9.0\Homework.genruntimeconfig.cache
+D:\Пиложения\Programing\Codes\all codes\Homework\obj\Debug\net9.0\ref\Homework.dll
