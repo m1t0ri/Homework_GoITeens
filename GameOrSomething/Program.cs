@@ -20,7 +20,12 @@ namespace Project
             sword.SpecialAtack(unit);
             
             bow.SpecialAtack(unit);
+
+            Console.WriteLine("---------------------------------");
             
+            sword.Attack();
+
+            bow.Reload(5);
             
             
             Console.ReadKey();
@@ -58,6 +63,7 @@ namespace Project
         public int Damage { get; protected set; }
         public int Range { get; private set; }
         public int Status { get; private set; } = 100;
+        public int Efficiency { get; private set; } = 100;
         
         
 
@@ -66,16 +72,22 @@ namespace Project
             Name = name;
             Damage = damage;
             Range = range;
+            Efficiency = 100;
         }
 
         public virtual void Attack()
         {
             Console.WriteLine("{0} attacks {1} damage {2} range", Name, Damage, Range);
+            
+            Efficiency --;
+            Damage -= 1;
         }
 
         public virtual void SpecialAtack(Unit unit)
         {
             Console.WriteLine($"Weapon {Name} atacked {unit.Name} ");
+            Efficiency -= 3;
+            Damage -= 3;
         }
     }
 
@@ -91,7 +103,10 @@ namespace Project
         public override void Attack()
         {
             base.Attack();
-            Console.WriteLine($"Blade length is {BladeLength}");
+            Console.WriteLine($"Blade length is {BladeLength}" +
+                              $"\nThe status of sword is:{iaSharpened(Status)}");
+            iaSharpened(Status);
+            
             
         }
 
@@ -104,6 +119,15 @@ namespace Project
             unit.TakeDamage(Damage);
             Damage = prevDamage;
 
+        }
+
+        public int iaSharpened(int status)
+        {
+            status = Status;
+            
+            status--;
+            
+            return status;
         }
         
     }
@@ -131,5 +155,14 @@ namespace Project
             ArrowCount = 0;
             
         }
+
+        public int Reload(int amount)
+        {
+            ArrowCount = amount;
+            
+            Console.WriteLine($"Bow is reload {ArrowCount}");
+            return amount;
+        }
     }
+    
 }
