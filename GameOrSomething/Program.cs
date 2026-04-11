@@ -7,15 +7,17 @@ namespace Project
     {
         static void Main(string[] args)
         {
+            
+            Unit unit = new Unit("Bob", 100);
+            
             Weapon weapon = new Weapon("AK-47", 5, 1);
-            weapon.Attack();
+            weapon.Attack(unit);
             Sword sword = new Sword("Sword", 20, 5, 1);
-            sword.Attack();
+            sword.Attack(unit);
             
             Bow bow = new Bow("Bow", 20, 5, 20);
-            bow.Attack();
+            bow.Attack(unit);
 
-            Unit unit = new Unit("Bob", 100);
             
             sword.SpecialAtack(unit);
             
@@ -23,9 +25,9 @@ namespace Project
 
             Console.WriteLine("---------------------------------");
             
-            sword.Attack();
+            sword.Attack(unit);
 
-            bow.Reload(5);
+            bow.Reload();
             
             
             Console.ReadKey();
@@ -75,9 +77,9 @@ namespace Project
             Efficiency = 100;
         }
 
-        public virtual void Attack()
+        public virtual void Attack(Unit unit)
         {
-            Console.WriteLine("{0} attacks {1} damage {2} range", Name, Damage, Range);
+            unit .TakeDamage(Damage);
             
             Efficiency --;
             Damage -= 1;
@@ -88,6 +90,11 @@ namespace Project
             Console.WriteLine($"Weapon {Name} atacked {unit.Name} ");
             Efficiency -= 3;
             Damage -= 3;
+        }
+
+        public virtual void ShowStatus()
+        {
+            Console.WriteLine("{0} attacks {1} damage {2} range", Name, Damage, Range);
         }
     }
 
@@ -100,14 +107,14 @@ namespace Project
             BladeLength = bladelength;
             
         }
-        public override void Attack()
+        public override void Attack(Unit unit)
         {
-            base.Attack();
+            base.Attack(unit);
+            
+            IsSharpened(Status);
+            
             Console.WriteLine($"Blade length is {BladeLength}" +
-                              $"\nThe status of sword is:{iaSharpened(Status)}");
-            iaSharpened(Status);
-            
-            
+                              $"\nThe status of sword is:{Status}");
         }
 
         public override void SpecialAtack(Unit unit)
@@ -121,13 +128,11 @@ namespace Project
 
         }
 
-        public int iaSharpened(int status)
+        public void IsSharpened(int status)
         {
-            status = Status;
-            
-            status--;
-            
-            return status;
+            Damage += Status;
+            /*status = Status;
+            status--;*/
         }
         
     }
@@ -135,15 +140,15 @@ namespace Project
     public class Bow: Weapon
     {
         public int ArrowCount { get; private set; }
-        
+        public int MaxArrows = 30;
         public Bow(string name, int damage, int count, int range) : base(name, damage, range)
         {
             ArrowCount = count;
         }
 
-        public override void Attack()
+        public override void Attack(Unit unit)
         {
-            base.Attack();
+            base.Attack(unit);
             Console.WriteLine($"Arrow count is {ArrowCount}");
         }
 
@@ -156,12 +161,11 @@ namespace Project
             
         }
 
-        public int Reload(int amount)
+        public void Reload()
         {
-            ArrowCount = amount;
+            ArrowCount = MaxArrows;
             
             Console.WriteLine($"Bow is reload {ArrowCount}");
-            return amount;
         }
     }
     
