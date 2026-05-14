@@ -1,0 +1,14 @@
+D:\Пиложения\Programing\Codes\all codes\task_7\bin\Debug\net9.0\task_7.exe
+D:\Пиложения\Programing\Codes\all codes\task_7\bin\Debug\net9.0\task_7.deps.json
+D:\Пиложения\Programing\Codes\all codes\task_7\bin\Debug\net9.0\task_7.runtimeconfig.json
+D:\Пиложения\Programing\Codes\all codes\task_7\bin\Debug\net9.0\task_7.dll
+D:\Пиложения\Programing\Codes\all codes\task_7\bin\Debug\net9.0\task_7.pdb
+D:\Пиложения\Programing\Codes\all codes\task_7\obj\Debug\net9.0\task_7.GeneratedMSBuildEditorConfig.editorconfig
+D:\Пиложения\Programing\Codes\all codes\task_7\obj\Debug\net9.0\task_7.AssemblyInfoInputs.cache
+D:\Пиложения\Programing\Codes\all codes\task_7\obj\Debug\net9.0\task_7.AssemblyInfo.cs
+D:\Пиложения\Programing\Codes\all codes\task_7\obj\Debug\net9.0\task_7.csproj.CoreCompileInputs.cache
+D:\Пиложения\Programing\Codes\all codes\task_7\obj\Debug\net9.0\task_7.dll
+D:\Пиложения\Programing\Codes\all codes\task_7\obj\Debug\net9.0\refint\task_7.dll
+D:\Пиложения\Programing\Codes\all codes\task_7\obj\Debug\net9.0\task_7.pdb
+D:\Пиложения\Programing\Codes\all codes\task_7\obj\Debug\net9.0\task_7.genruntimeconfig.cache
+D:\Пиложения\Programing\Codes\all codes\task_7\obj\Debug\net9.0\ref\task_7.dll

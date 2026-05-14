@@ -1,0 +1,14 @@
+D:\Пиложения\Programing\Codes\all codes\task_2.3\bin\Debug\net9.0\task_2.3.exe
+D:\Пиложения\Programing\Codes\all codes\task_2.3\bin\Debug\net9.0\task_2.3.deps.json
+D:\Пиложения\Programing\Codes\all codes\task_2.3\bin\Debug\net9.0\task_2.3.runtimeconfig.json
+D:\Пиложения\Programing\Codes\all codes\task_2.3\bin\Debug\net9.0\task_2.3.dll
+D:\Пиложения\Programing\Codes\all codes\task_2.3\bin\Debug\net9.0\task_2.3.pdb
+D:\Пиложения\Programing\Codes\all codes\task_2.3\obj\Debug\net9.0\task_2.3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Пиложения\Programing\Codes\all codes\task_2.3\obj\Debug\net9.0\task_2.3.AssemblyInfoInputs.cache
+D:\Пиложения\Programing\Codes\all codes\task_2.3\obj\Debug\net9.0\task_2.3.AssemblyInfo.cs
+D:\Пиложения\Programing\Codes\all codes\task_2.3\obj\Debug\net9.0\task_2.3.csproj.CoreCompileInputs.cache
+D:\Пиложения\Programing\Codes\all codes\task_2.3\obj\Debug\net9.0\task_2.3.dll
+D:\Пиложения\Programing\Codes\all codes\task_2.3\obj\Debug\net9.0\refint\task_2.3.dll
+D:\Пиложения\Programing\Codes\all codes\task_2.3\obj\Debug\net9.0\task_2.3.pdb
+D:\Пиложения\Programing\Codes\all codes\task_2.3\obj\Debug\net9.0\task_2.3.genruntimeconfig.cache
+D:\Пиложения\Programing\Codes\all codes\task_2.3\obj\Debug\net9.0\ref\task_2.3.dll
